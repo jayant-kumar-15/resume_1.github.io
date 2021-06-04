@@ -1,0 +1,125 @@
+#info{
+    margin-left: 40px;
+}
+ /* .top{
+
+        } */
+       
+.board{
+    width: 695px;
+    height: 1450px;
+    border: 1px solid red;
+    margin:auto;
+    background-color:#ffcaca78;
+    padding-right: 45px;
+}
+#resume{
+    margin: 10px 55px;
+}
+#image{
+    float: right;
+    width: 130px;
+    height: 130px;
+    border-radius: 200px;
+    border: 2px solid #483c10;
+    margin-top: 5px;
+}
+
+#details{
+    margin-left: 40px;
+    font-size: 20px;
+}
+#try{color:brown;
+    /* border-radius: 12px;
+    border: 1px solid black; */
+
+}
+
+    .line{
+        border: 2px solid black;
+        margin: auto;
+        width: 650px;
+        text-align: center;
+    }
+
+.board h2{
+    text-align: center;
+}
+#table{
+    color:black;
+    border: 3px solid rgb(173, 29, 29);
+    
+}
+.contact{
+    margin: 15px auto;
+    font-size: 15;
+    cursor: pointer;
+    text-decoration: none;
+}
+/* a:hover property basically helps 
+to select the elements when you move mouse over them*/
+a:hover{
+    background-color: rgb(219, 198, 217); 
+}
+table,th,td{ border: 2px solid black;
+    border-collapse: collapse;
+    width: 40pc;
+    padding-left: 22px ;
+    margin-left: 40px;
+}
+    .acheivments{
+        margin-left: 20px;
+        color:rgb(2 4 9 / 99%);
+        }
+
+
+.details{
+    margin:auto
+}
+/* .header{
+    background-color: burlywood;
+} */
+
+.font{
+    font-family: 'IBM Plex Serif', serif;
+        
+}
+.skills{
+    margin-left: 20px;
+}
+    
+.obj{
+    margin-left: 20px;
+    cursor: pointer;
+
+}
+    
+    .container {
+    width: 700px;
+    height: 470px;
+    border: 2px solid purple;
+    margin: 3px auto;
+    margin-left: 13px;
+    background-color: lightsalmon;
+    border-radius: 20px; 
+    box-sizing: border-box;
+}
+.note{
+    text-align: center;
+    cursor: pointer;
+}
+.date{
+    float:left;
+}
+.sign{
+    float:right;
+}
+
+
+/* 
+.item{
+    background-color:rgb(233, 114, 114);
+    border: 2px solid blueviolet;
+    margin: 10px 10px;
+    border-radius: 15px;
+} */
